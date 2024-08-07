@@ -1,3 +1,5 @@
+[![MasterHead](https://github.com/Auspicious-EX/Spotify-Clone/blob/main/IMGs/banner.gif?raw=true)](https://)
+
 # Spotify Clone
 
 This repository contains a clone of the Spotify web application, developed using HTML, CSS, and JavaScript. The project aims to replicate the look and feel of Spotify with enhanced responsiveness and a superior mobile experience.
@@ -27,7 +29,7 @@ Ensure you have the following software installed on your local machine:
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/yourusername/Spotify-Clone.git
+   git clone https://github.com/Auspicious-EX/Spotify-Clone
    ```
 2. **Navigate to the Project Directory**:
    ```bash
@@ -67,11 +69,43 @@ The design is responsive and adapts to different screen sizes. Test the applicat
 
 Include some screenshots of your project here to give viewers a visual overview.
 
+<hr>
+
+[![MasterHead](https://github.com/Auspicious-EX/Spotify-Clone/blob/main/IMGs/1.png?raw=true)](https://)
+
+<hr>
+
+<div style="display: flex; justify-content: space-between; gap : 10px">
+  <img src="https://github.com/Auspicious-EX/Spotify-Clone/blob/main/IMGs/2.png?raw=true" alt="Screenshot 1" height="200">
+  <img src="https://github.com/Auspicious-EX/Spotify-Clone/blob/main/IMGs/3.png?raw=true" alt="Screenshot 2" height="200">
+  <img src="https://github.com/Auspicious-EX/Spotify-Clone/blob/main/IMGs/4.png?raw=true" alt="Screenshot 3" height="200">
+</div>
+
+
 
 ## Acknowledgements
 
 - This project was inspired by the design and functionality of Spotify.
 - Thanks to all the resources and tutorials that helped in the development of this clone.
+
+
+## Contact
+
+Feel free to connect with me on social media:
+
+<div style="display: flex; align-items: center;">
+  <!-- X (formerly Twitter) -->
+  <a href="https://x.com/Auspicious_EX" target="_blank" style="margin-right: 20px;">
+    <img src="https://static.vecteezy.com/system/resources/previews/042/148/611/non_2x/new-twitter-x-logo-twitter-icon-x-social-media-icon-free-png.png" alt="X" height="30" style="vertical-align: middle;">
+    <span style="margin-left: 5px;">@Auspicious_EX</span>
+  </a>
+  
+  <!-- Instagram -->
+  <a href="https://instagram.com/shubhamprajapatiofficial" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Instagram" height="30" style="vertical-align: middle;">
+    <span style="margin-left: 5px;">@shubhamprajapatiofficial</span>
+  </a>
+</div>
 
 
 ---
